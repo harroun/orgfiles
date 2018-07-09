@@ -1,0 +1,342 @@
+#+title: Common GRE Words
+#+author: Nathan Harroun
+#+email: 36319656+harroun@users.noreply.github.com
+* Adjectives
+| Word          | Pronunciation         | Definition                                                                                                              | Synonyms                                            |
+|---------------+-----------------------+-------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------|
+| aberrant      | uh-ber-uh nt          | markedly different from an accepted norm                                                                                | anomalous                                           |
+| abstruse      | ab-stroos             | difficult to understand; incomprehensible                                                                               | arcane, esoteric, recondite                         |
+| acerbic       | uh-sur-bik            | harsh in tone                                                                                                           | mordant, sardonic                                   |
+| adamant       | ad-uh-muh nt          | refusing to change one's mind                                                                                           | dogged, intransigent, obstinate, obdurate, ossified |
+| admonitory    | ad-mon-i-tohr-ee      | serving to warn; expressing reproof or reproach especially as a corrective                                              |                                                     |
+| aesthetic     | es-thet-ik            | concerned with the appreciation of beauty                                                                               |                                                     |
+| ambiguous     | am-big-yoo-uh s       | open to more than one interpretation                                                                                    | cryptic, equivocal, inscrutable, opaque             |
+| ambivalent    | am-biv-uh-luh nt      | mixed or conflicting emotions about something                                                                           |                                                     |
+| amenable      | uh-mee-nuh-buh l      | easily persuaded                                                                                                        | docile, tractable                                   |
+| amorphous     | uh-mawr-fuh s         | shapeless                                                                                                               |                                                     |
+| anomalous     | uh-nom-uh-luh s       | not normal                                                                                                              | aberrant                                            |
+| antithetical  | an-tuh-thet-i-kuh l   | sharply contrasted in character or purpose                                                                              |                                                     |
+| apathetic     | ap-uh-thet-ik         | marked by a lack of interest                                                                                            | indifferent, insouciant, nonchalant, perfunctory    |
+| apocryphal    | uh-pok-ruh-fuh l      | being of questionable authenticity                                                                                      |                                                     |
+| arbitrary     | ahr-bi-trer-ee        | based on random, groundless decision                                                                                    | capricious, whimsical                               |
+| arcane        | ahr-keyn              | requiring secret knowledge or mysterious knowledge                                                                      | abstruse, esoteric, recondite                       |
+| arduous       | ahr-joo-uh s          | demanding considerable mental effort and skill; testing powers of endurance                                             | taxing                                              |
+| artful        | ahrt-fuh l            | exhibiting artistic skill                                                                                               |                                                     |
+| artful        | ahrt-fuh l            | clever in a cunning way                                                                                                 |                                                     |
+| ascetic       | uh-set-ik             | practicing self-denial                                                                                                  | austere, spartan                                    |
+| audacious     | aw-dey-shuh s         | willing to be bold in social situations or to take risks                                                                | foolhardy, temerarious                              |
+| auspicious    | aw-spish-uh s         | favorable, the opposite of sinister                                                                                     | propitious                                          |
+| austere       | aw-steer              | practicing self-denial                                                                                                  | ascetic, spartan                                    |
+| austere       | aw-steer              | unadorned in style or appearance                                                                                        |                                                     |
+| austere       | aw-steer              | harsh in manner of temperament                                                                                          |                                                     |
+| avaricious    | av-uh-rish-uh s       | excessively greedy                                                                                                      |                                                     |
+| banal         | buh-nal               | repeated too often; overfamiliar through overuse                                                                        | hackneyed, trite                                    |
+| belligerent   | buh-lij-er-uh nt      | characteristic of one eager to fight                                                                                    | bellicose, pugnacious                               |
+| blatant       | bleyt-nt              | without any attempt at concealment; completely obvious                                                                  | conspicuous, egregious, patent                      |
+| brazen        | brey-zuh n            | unrestrained                                                                                                            | insolent, impertinent, impudent                     |
+| bucolic       | byoo-kol-ik           | relating to the pleasant aspects of the country                                                                         | pastoral, rustic                                    |
+| bumbling      | buhm-bling            | lacking physical movement skills, especially with the hands                                                             | maladroit                                           |
+| capricious    | kuh-prish-uh s        | determined by chance or impulse or whim rather than necessity or reason                                                 | arbitrary, whimsical                                |
+| commensurate  | kuh-men-ser-it        | to be in proportion or corresponding in degree or amount                                                                |                                                     |
+| conspicuous   | kuh n-spik-yoo-uh s   | without any attempt at concealment; completely obvious                                                                  | blatant, egregious, patent                          |
+| contingent    | kuh n-tin-juh nt      | dependent on (usually used with upon)                                                                                   |                                                     |
+| copious       | koh-pee-uh s          | in abundant supply                                                                                                      | profuse                                             |
+| craven        | krey-vuh n            | pathetically cowardly                                                                                                   |                                                     |
+| cryptic       | krip-tik              | mysterious or vague, usually intentionally                                                                              | ambiguous, equivocal, inscrutable, opaque           |
+| decorous      | dek-er-uh s           | characterized by good taste in manners and conduct                                                                      | genteel                                             |
+| deferential   | def-uh-ren-shuh l     | showing respect                                                                                                         |                                                     |
+| deleterious   | del-i-teer-ee-uh s    | harmful to living things                                                                                                | insidious, pernicious                               |
+| dictatorial   | dik-tuh-tohr-ee-uh l  | expecting unquestioning obedience; characteristic of an absolute ruler                                                  | autocratic, despotic                                |
+| didactic      | dahy-dak-tik          | instructive (especially excessively)                                                                                    |                                                     |
+| diffident     | dif-i-duh nt          | showing modest reserve; lacking self-confidence                                                                         | demure, retiring, self-effacing                     |
+| dilatory      | dil-uh-tohr-ee        | wasting time                                                                                                            | languid                                             |
+| disaffected   | dis-uh-fek-tid        | discontented as toward authority                                                                                        |                                                     |
+| discrete      | dih-skreet            | constituting a separate entity or part                                                                                  |                                                     |
+| disinterested | dis-in-tri-stid       | unbiased; neutral                                                                                                       | dispassionate, impartial, equitable, evenhanded     |
+| dispassionate | dis-pash-uh-nit       | unaffected by strong emotion or prejudice                                                                                                                        | disinterested, impartial, equitable, evenhanded     |
+| dogmatic      | dawg-mat-ik           | highly opinionated, not accepting that your belief may not be correct                                                   | pontifical                                          |
+| eclectic      | ih-klek-tik           | comprised of a variety of styles                                                                                        |                                                     |
+| economical    | ek-uh-nom-i-kuh l     | avoiding waste; efficient                                                                                               | frugal, provident, thrifty                          |
+| edifying      | ed-uh-fahy-ing        | enlightening or uplifting as to encourage intellectual or moral improvement                                             |                                                     |
+| efficacious   | ef-i-key-shuh s       | producing the intended result                                                                                           |                                                     |
+| egregious     | ih-gree-juh s         | standing out in a negative way; shockingly bad                                                                          | blatant, conspicuous, patent                        |
+| eminent       | em-uh-nuh nt          | standing above others in quality or position                                                                            | illustrious                                         |
+| entrenched    | en-trench d           | fixed firmly or securely                                                                                                | inveterate                                          |
+| ephemeral     | ih-fem-er-uh l        | lasting a very short time                                                                                               | evanescent, transient, transitory                   |
+| equivocal     | ih-kwiv-uh-kuh l      | confusing or ambiguous                                                                                                  | ambiguous, cryptic, inscrutable, opaque             |
+| erudite       | er-yoo-dahyt          | having or showing profound knowledge                                                                                    |                                                     |
+| esoteric      | es-uh-ter-ik          | confined to and understandable by only an enlightened inner circle                                                      | abstruse, arcane, recondite                         |
+| exacting      | ig-zak-ting           | requiring and demanding accuracy                                                                                        | stringent                                           |
+| extant        | ik-stant              | still existing (usually refers to documents)                                                                            |                                                     |
+| fallacious    | fuh-ley-shuh s        | of a belief that is based on faulty reasoning                                                                           |                                                     |
+| fastidious    | fa-stid-ee-uh s       | overly concerned with details                                                                                           |                                                     |
+| forlorn       | fawr-lawrn            | marked by or showing hopelessness                                                                                       |                                                     |
+| forthcoming   | fohrth-kuhm-ing       | at ease in talking to others                                                                                            | aboveboard, candid                                  |
+| forthcoming   | fohrth-kuhm-ing       | available when required or as promised                                                                                  |                                                     |
+| fortuitous    | fawr-too-i-tuh s      | occurring by happy chance; having no cause or apparent cause                                                            | inadvertent                                         |
+| frivolous     | friv-uh-luh s         | not serious in content or attitude or behavior                                                                          |                                                     |
+| frugal        | froo-guh l            | not spending much money (but spending wisely)                                                                           | economical, provident, thrifty                      |
+| furtive       | fur-tiv               | marked by quiet and caution and secrecy to avoid being observed                                                         |                                                     |
+| garrulous     | gar-uh-luh s          | full of trivial conversation                                                                                            |                                                     |
+| gauche        | gohsh                 | lacking social polish, also not tactful                                                                                 |                                                     |
+| germane       | jer-meyn              | relevant and appropriate                                                                                                | apposite, pertinent                                 |
+| gossamer      | gos-uh-mer            | characterized by unusual lightness and delicacy                                                                         | ethereal                                            |
+| gregarious    | gri-gair-ee-uh s      | to be likely to socialize with others                                                                                   | boon, convivial                                     |
+| guileless     | gahyl-lis             | free of deceit                                                                                                          | artless, ingenuous                                  |
+| hackneyed     | hak-need              | lacking significance through having been overused                                                                       | banal, trite                                        |
+| haphazard     | hap-haz-erd           | marked by great carelessness; dependent upon or characterized by chance                                                 | slapdash                                            |
+| harried       | har-ee d              | troubled persistently especially with petty annoyances                                                                  |                                                     |
+| haughty       | haw-tee               | having or showing arrogant superiority to and disdain of those one views as unworthy                                    | cavalier, imperious, overweening, supercilious      |
+| iconoclastic  | ahy-kon-uh-klas-tik   | defying tradition or convention                                                                                         | heretical, maverick                                 |
+| ignoble       | ig-noh-buh l          | dishonorable                                                                                                            | base, sordid                                        |
+| ignominious   | ig-nuh-min-ee-uh s    | deserving or bringing disgrace or shame in defeat                                                                       |                                                     |
+| immutable     | ih-myoo-tuh-buh l     | not able to be changed                                                                                                  |                                                     |
+| impartial     | im-pahr-shuh l        | free from undue bias or preconceived opinions                                                                           | disinterested, dispassionate, equitable, evenhanded |
+| impertinent   | im-pur-tn-uh nt       | being disrespectful; improperly forward or bold                                                                         | brazen, impudent, insolent                          |
+| implacable    | im-plak-uh-buh l      | incapable of making less angry or hostile                                                                               |                                                     |
+| implausible   | im-plaw-zuh-buh l     | describing a statement that is not believable                                                                           |                                                     |
+| imprudent     | im-prood-nt           | not wise                                                                                                                |                                                     |
+| impudent      | im-pyuh-duh nt        | improperly forward or bold                                                                                              | brazen, impertinent, insolent                       |
+| incisive      | in-sahy-siv           | having or demonstrating ability to recognize or draw fine distinctions                                                  | perspicacious, sagacious                            |
+| incongruous   | in-kong-groo-uh s     | lacking in harmony or compatibility or appropriateness                                                                  | discordant, indecorous, infelicitous, unseemly      |
+| incorrigible  | in-kor-i-juh-buh l    | impervious to correction by punishment                                                                                  |                                                     |
+| indecorous    | in-dek-er-uh s        | not in keeping with accepted standards of what is right or proper in polite society                                     | incongruous, infelicitous, unseemly                 |
+| inexorable    | in-ek-ser-uh-buh l    | impossible to stop or prevent                                                                                           |                                                     |
+| ingenuous     | in-jen-yoo-uh s       | to be naive and innocent                                                                                                | artless, guileless                                  |
+| inimical      | ih-nim-i-kuh l        | hostile (conditions or environments)                                                                                    | jaundiced                                           |
+| innocuous     | ih-nok-yoo-uh s       | harmless and doesn't produce any ill effects                                                                            | anodyne, benign                                     |
+| inscrutable   | in-skroo-tuh-buh l    | not easily understood; unfathomable                                                                                     | ambiguous, cryptic, equivocal, opaque               |
+| insidious     | in-sid-ee-uh s        | working in a subtle but destructive way                                                                                 | deleterious, pernicious                             |
+| insolent      | in-suh-luh nt         | rude and arrogant                                                                                                       | brazen, impertinent, impudent                       |
+| intransigent  | in-tran-si-juh nt     | unwilling to change one's beliefs or course of action                                                                   | adamant, dogged, obstinate, obdurate, ossified      |
+| intrepid      | in-trep-id            | fearless                                                                                                                | doughty, stalwart                                   |
+| inveterate    | in-vet-er-it          | habitual                                                                                                                | entrenched                                          |
+| involved      | in-volvd              | complicated, and difficult to comprehend                                                                                | byzantine, convoluted                               |
+| irrevocable   | ih-rev-uh-kuh-buh l   | incapable of being retracted or revoked                                                                                 |                                                     |
+| itinerant     | ahy-tin-er-uh nt      | traveling from place to place to work                                                                                   |                                                     |
+| itinerant     | ahy-tin-er-uh nt      | traveling from place to place to work                                                                                   | errant, peripatetic                                 |
+| jovial        | joh-vee-uh l          | full of or showing high spirited merriment                                                                              | jocular                                             |
+| jubilant      | joo-buh-luh nt        | full of high-spirited delight because of triumph or success                                                             |                                                     |
+| laconic       | luh-kon-ik            | one who says very few words                                                                                             | reticent, taciturn                                  |
+| languid       | lang-gwid             | not inclined towards physical exertion or effort; slow and relaxed                                                      | dilatory, enervated, languishing                    |
+| laudable      | law-duh-buh l         | worthy of high praise                                                                                                   | commendable, estimable                              |
+| magnanimous   | mag-nan-uh-muh s      | noble and generous in spirit, especially towards a rival or someone less powerful                                       | chivalrous                                          |
+| maladroit     | mal-uh-droit          | clumsy                                                                                                                  | bumbling                                            |
+| mawkish       | maw-kish              | overly sentimental to the point that it is disgusting                                                                   | maudlin, sentimental                                |
+| mercurial     | mer-kyoo r-ee-uh l    | (of a person) prone to unexpected and unpredictable changes in mood                                                     | fickle                                              |
+| meticulous    | muh-tik-yuh-luh s     | marked by extreme care in treatment of details                                                                          | scrupulous                                          |
+| mundane       | muhn-deyn             | repetitive and boring; not spiritual                                                                                    |                                                     |
+| mundane       | muhn-deyn             | relating to the ordinary world                                                                                          |                                                     |
+| munificent    | myoo-nif-uh-suh nt    | very generous                                                                                                           | unstinting                                          |
+| myopic        | mahy-op-ik            | lacking foresight or imagination                                                                                        | improvident                                         |
+| negligible    | neg-li-juh-buh l      | so small as to be meaningless; insignificant                                                                            | picayune                                            |
+| nonplussed    | non-pluhs d           | unsure how to act or respond                                                                                            | confounded                                          |
+| obscure       | uh b-skyoo r          | known by only a few                                                                                                     |                                                     |
+| obsequious    | uh b-see-kwee-uh s    | attentive in an ingratiating or servile manner; attempting to win favor from influential people by flattery             | fawning, sycophantic                                |
+| opaque        | oh-peyk               | not clearly understood or expressed                                                                                     | ambiguous, cryptic, equivocal, inscrutable          |
+| ostentatious  | os-ten-tey-shuh s     | intended to attract notice and impress others; tawdry or vulgar                                                         |                                                     |
+| parochial     | puh-roh-kee-uh l      | narrowly restricted in scope or outlook                                                                                 | provincial                                          |
+| parsimonious  | pahr-suh-moh-nee-uh s | extremely frugal; miserly                                                                                               | penurious                                           |
+| pedantic      | puh-dan-tik           | marked by a narrow focus on or display of learning especially its trivial aspects                                       |                                                     |
+| pedestrian    | puh-des-tree-uh n     | lacking imagination                                                                                                     | humdrum, jejune, prosaic                            |
+| pejorative    | pi-jor-uh-tiv         | expressing disapproval of (a term)                                                                                      | derogative                                          |
+| perfidious    | pur-fi-dee            | an act of deliberate betrayal; a breach of a trust                                                                      |                                                     |
+| pernicious    | per-nish-uh s         | exceedingly harmful; working or spreading in a hidden and injurious way                                                 | deleterious, insidious                              |
+| petulant      | pech-uh-luh nt        | easily irritated or annoyed                                                                                             | choleric, irascible, peevish                        |
+| poignant      | poin-yuh nt           | emotionally touching                                                                                                    |                                                     |
+| pragmatic     | prag-mat-ik           | guided by practical experience and observation rather than theory                                                       |                                                     |
+| precipitous   | pri-sip-i-tuh s       | done with great haste and without due deliberation                                                                      | precipitate, rash                                   |
+| precocious    | pri-koh-shuh s        | characterized by or characteristic of exceptionally early development or maturity (especially in mental aptitude)       |                                                     |
+| prescience    | presh-ee-uh ns        | the power to foresee the future                                                                                         |                                                     |
+| prodigal      | prod-i-guh l          | rashly or wastefully extravagant                                                                                        | profligate, spendthrift, squandering                |
+| prodigious    | pruh-dij-uh s         | so great in size or force or extent as to elicit awe                                                                    | colossal                                            |
+| profligate    | prof-li-git           | spending resources recklessly or wastefully                                                                             | prodigal, spendthrift, squandering                  |
+| prolific      | pruh-lif-ik           | intellectually productive                                                                                               | fecund                                              |
+| propitious    | pruh-pish-uh s        | presenting favorable circumstances; likely to result in or show signs of success                                        | auspicious                                          |
+| provincial    | pruh-vin-shuh l       | characteristic of a limited perspective; not fashionable or sophisticated                                               | parochial                                           |
+| qualify       | kwol-uh-fahy          | to be legally competent or capable                                                                                      |                                                     |
+| querulous     | kwer-uh-luh s         | habitually complaining                                                                                                  |                                                     |
+| quotidian     | kwoh-tid-ee-uh n      | found in the ordinary course of events                                                                                  |                                                     |
+| ravenous      | rav-uh-nuh s          | extremely hungry; devouring or craving food in great quantities                                                         | voracious                                           |
+| recondite     | rek-uh n-dahyt        | difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge                                  | abstruse, arcane, esoteric                          |
+| refractory    | ri-frak-tuh-ree       | stubbornly resistant to authority or control                                                                            | obstreperous                                        |
+| restive       | res-tiv               | restless                                                                                                                |                                                     |
+| resurgent     | ri-sur-juh nt         | rising again as to new life and vigor                                                                                   |                                                     |
+| reticent      | ret-uh-suh nt         | disinclined to talk, not revealing one's thoughts                                                                       | laconic, taciturn                                   |
+| reverent      | rev-eh-uh nt          | feeling or showing profound respect or veneration                                                                       | venerating                                          |
+| rudimentary   | roo-duh-men-tuh-ree   | being in the earliest stages of development; being or involving basic facts or principles                               |                                                     |
+| rustic        | ruhs-tik              | characteristic of rural life; awkwardly simple and provincial                                                           | bucolic, pastoral                                   |
+| scrupulous    | skroo-pyuh-luh s      | characterized by extreme care and great effort and great effort                                                         | meticulous                                          |
+| scrupulous    | skroo-pyuh-luh s      | having a sense of right and wrong; principled                                                                           |                                                     |
+| soporific     | sop-uh-rif-ik         | inducing mental lethargy; sleep inducing                                                                                |                                                     |
+| specious      | spee-shuh s           | plausible but false                                                                                                     | spurious                                            |
+| specious      | spee-shuh s           | deceptively pleasing                                                                                                    |                                                     |
+| sporadic      | spuh-rad-ik           | recurring in scattered and irregular or unpredictable instances                                                         | erratic, intermittent                               |
+| spurious      | spyoo r-ee-uh s       | plausible but false                                                                                                     | specious                                            |
+| staunch       | stawnch               | firm and dependable especially in loyalty                                                                               | steadfast                                           |
+| stringent     | strin-juh nt          | demanding strict attention to rules and procedures                                                                      | exacting                                            |
+| subversive    | suh b-vur-siv         | in opposition to an established system or institution                                                                   |                                                     |
+| sullen        | suhl-uh n             | showing a brooding ill humor                                                                                            | bleak, morose, saturnine                            |
+| superfluous   | soo-pur-floo-uh s     | serving no useful purpose or more than is needed, desired, or required                                                  |                                                     |
+| taciturn      | tas-i-turn            | temperamentally disinclined to talk                                                                                     | laconic, reticent                                   |
+| tantamount    | tan-tuh-mount         | being essentially equal to something                                                                                    |                                                     |
+| tempered      | tem-perd              | moderated in effect                                                                                                     |                                                     |
+| tenacious     | tuh-ney-shuh s        | stubbornly unyielding                                                                                                   | dogged                                              |
+| timorous      | tim-er-uh s           | timid by nature or revealing fear and nervousness                                                                       |                                                     |
+| tortuous      | tawr-choo-uh s        | marked by repeated turns and bends; not straightforward                                                                 |                                                     |
+| tractable     | trak-tuh-buh l        | readily reacting to suggestions and influences; easily managed (controlled or taught or molded)                         | amenable, docile                                    |
+| transient     | tran-shuh nt          | lasting a very short time                                                                                               | ephemeral, evanescent, transitory                   |
+| treacherous   | trech-er-uh s         | tending to betray                                                                                                       | fickle, perfidious                                  |
+| treacherous   | trech-er-uh s         | dangerously unstable and unpredictable                                                                                  |                                                     |
+| trite         | trahyt                | boring from much use; overfamiliar through overuse                                                                      | banal, hackneyed                                    |
+| unequivocal   | uhn-i-kwiv-uh-kuh l   | admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion | lucid, pellucid                                     |
+| unscrupulous  | uhn-skroo-pyuh-luh s  | having no morals                                                                                                        | unconscionable                                      |
+| vehement      | vee-uh-muh nt         | marked by extreme intensity of emotions or convictions                                                                  |                                                     |
+| veracious     | vuh-rey-shuh s        | truthful                                                                                                                |                                                     |
+| vociferous    | voh-sif-er-uh s       | conspicuously and offensively loud; given to vehement outcry                                                            | obstreperous                                        |
+| wanting       | won-ting              | lacking                                                                                                                 |                                                     |
+| winsome       | win-suh m             | charming in a childlike or naive way                                                                                    |                                                     |
+* Adverbs
+| Word    | Pronunciation | Definition                              | Synonyms |
+|---------+---------------+-----------------------------------------+----------|
+| askance | uh-skans      | with a look of suspicion or disapproval |          |
+* Nouns
+| Word         | Pronunciation          | Definition                                                                                          | Synonyms                                    |
+|--------------+------------------------+-----------------------------------------------------------------------------------------------------+---------------------------------------------|
+| aberration   | ab-uh-rey-shuh n       | a deviation from what is normal or expected                                                         | anomaly                                     |
+| accolade     | ak-uk-leyd             | an award                                                                                            |                                             |
+| accolade     | ak-uk-leyd             | praise granted as a special honor                                                                   | commendation, panegyric                     |
+| acrimony     | ak-ruh-moh-nee         | bitterness and ill will                                                                             | asperity, mordancy, vitriol                 |
+| aesthete     | es-theet               | one who professes great sensitivity to the beauty of art and nature                                 |                                             |
+| aesthetic    | es-thet-ik             | a set of principles underlying and guiding the work of a particular artist or artistic movement     |                                             |
+| amalgam      | uh-mal-guh m           | a mixture of multiple things                                                                        | conflation                                  |
+| anomaly      | uh-nom-uh-lee          | something that is not normal, standard, or expected                                                 | aberration                                  |
+| antipathy    | an-tip-uh-thee         | intense feeling of dislike                                                                          | animosity, enmity, gall, jaundice           |
+| apathy       | ap-uh-thee             | an absence of emotion or enthusiasm                                                                 | phlegm                                      |
+| ascetic      | uh-set-ik              | one who practices great self-denial                                                                 |                                             |
+| audacity     | aw-das-i-tee           | aggressive boldness in social situations                                                            | effrontery, gall, presumption, temerity     |
+| banality     | buh-nal-i-tee          | a trite or obvious remark                                                                           | bromide, platitude                          |
+| calumny      | kal-uh m-nee           | making of a false statement meant to injure a person's reputation                                   |                                             |
+| caprice      | kuh-prees              | a sudden change; especially: a sudden change in someone's mood or behavior                          | whim                                        |
+| constituent  | kuh n-stich-oo-uh nt   | a citizen who is represented in a government by officials for whom he or she votes                  |                                             |
+| constituent  | kuh n-stich-oo-uh nt   | an abstract part of something                                                                       |                                             |
+| contingent   | kuh n-tin-juh nt       | a gathering of persons representative of some larger group                                          |                                             |
+| contrition   | kuh n-trish-uh n       | feeling of remorse or guilt from doing something bad                                                | contriteness                                |
+| culpability  | kuhl-puh-bil-i-tee     | a state of guilt                                                                                    |                                             |
+| decorum      | dih-kohr-uh m          | propriety in manners and conduct                                                                    |                                             |
+| derivative   | dih-riv-uh-tiv         | not original but drawing strongly on something already in existence                                 |                                             |
+| dilettante   | dil-i-tahnt            | an amateur who engages in an activity without serious intentions and who pretends to have knowledge |                                             |
+| duress       | doo-res                | compulsory force or threat                                                                          |                                             |
+| flux         | fluhks                 | state of uncertainty about what should be done                                                      |                                             |
+| gall         | gawl                   | the trait of being rude and impertinent                                                             | audacity, effrontery, presumption, temerity |
+| gall         | gawl                   | feeling of deep and bitter anger and ill-will                                                       | animosity, antipathy, enmity, jaundice      |
+| glut         | gluht                  | an excessive supply                                                                                 | surfeit                                     |
+| harangue     | huh-rang               | a long pompous speech; a tirade                                                                     | diatribe, tirade                            |
+| hegemony     | hi-jem-uh-nee          | dominance over a certain area                                                                       | ascendancy                                  |
+| iconoclast   | ahy-kon-uh-klast       | somebody who attacks cherished beliefs or institutions                                              | heretic, maverick                           |
+| idiosyncrasy | id-ee-uh-sing-kruh-see | behavioral attribute distinctive and peculiar to an individual                                      | eccentricity                                |
+| indifference | in-dif-er-uh ns        | the trait of seeming not to care                                                                    | insouciance, nonchalance                    |
+| jingoism     | jing-goh-iz-uh m       | fanatical patriotism                                                                                | chauvinism                                  |
+| largess      | lahr-jes               | extreme generosity and giving                                                                       | munificence                                 |
+| maverick     | mav-rik                | someone who exhibits great independence in thought or action                                        | heretic, iconoclast                         |
+| mendacity    | men-das-i-tee          | the tendency to be untruthful                                                                       |                                             |
+| myriad       | mir-ee-uh d            | a large indefinite number                                                                           |                                             |
+| nuance       | noo-ahns               | a subtle difference in meaning or opinion or attitude                                               |                                             |
+| opulence     | op-yuh-luh ns          | wealth as evidenced by sumptuous living                                                             |                                             |
+| panache      | puh-nash               | distinctive and showy elegance                                                                      |                                             |
+| platitude    | plat-i-tood            | a trite or obvious remark                                                                           | banality, bromide                           |
+| polemic      | puh-lem-ik             | strong verbal or written attack on someone or something                                             |                                             |
+| predilection | pred-l-ek-shuh n       | a strong liking                                                                                     |                                             |
+| profligate   | prof-li-git            | someone who spends resources recklessly or wastefully                                               | prodigal, spendthrift, squanderer           |
+| pundit       | puhn-dit               | scholar or expert                                                                                   |                                             |
+| sanction     | sangk-shuh n           | a legal penalty for a forbidden action                                                              |                                             |
+| sycophant    | sik-uh-fuh nt          | a servile self-seeking flatterer                                                                    | fawner                                      |
+| temperance   | tem-per-uh ns          | trait of avoiding excesses                                                                          | abstinence, asceticism                      |
+| torpor       | tawr-per               | inactivity resulting from lethargy and lack of vigor or energy                                      | languor, lethargy                           |
+| travesty     | trav-uh-stee           | an absurd presentation of something; a mockery                                                      |                                             |
+| venality     | vee-nal-i-tee          | the condition of being susceptible to bribes or corruption                                          |                                             |
+| volubility   | vol-yuh-bil-i-tee      | the quality of talking or writing easily and continuously                                           | expansiveness, glibness                     |
+* Verbs
+| Word         | Pronunciation     | Definition                                                                              | Synonyms                                        |
+|--------------+-------------------+-----------------------------------------------------------------------------------------+-------------------------------------------------|
+| abstain      | ab-steyn          | choose not to consume or take part in (particularly something enjoyable)                |                                                 |
+| admonish     | ad-mon-ish        | to warn strongly, even to the point of reprimanding                                     |                                                 |
+| ameliorate   | uh-meel-yuh-reyt  | make something bad better                                                               |                                                 |
+| appease      | uh-peez           | pacify by acceding to the demands of                                                    | mollify, placate, propitiate                    |
+| belie        | bih-lahy          | to give a false representation to; misrepresent                                         |                                                 |
+| betray       | bih-trey          | to reveal or make known something, usually unintentionally                              |                                                 |
+| bolster      | bohl-ster         | support and strengthen                                                                  | buttress, corroborate                           |
+| burgeon      | bur-juh n         | grow and flourish                                                                       |                                                 |
+| castigate    | kas-ti-geyt       | to reprimand harshly                                                                    | chastise, lambast, rebuke, reproach, upbraid    |
+| censure      | sen-sher          | to express strong disapproval                                                           | decry, objurgate                                |
+| chastise     | chas-tahyz        | to reprimand harshly                                                                    | castigate, lambast, rebuke, reproach, upbraid   |
+| chortle      | chawr-tl          | to chuckle, laugh merrily                                                               | guffaw                                          |
+| circumscribe | sur-kuh m-skrahyb | restrict or confine                                                                     |                                                 |
+| circumvent   | sur-kuh m-vent    | cleverly find a way out of one's duties or obligations                                  |                                                 |
+| concede      | kuh n-seed        | acknowledge defeat                                                                      | capitulate, cede                                |
+| concede      | kuh n-seed        | admit wrongdoing                                                                        |                                                 |
+| concede      | kuh n-seed        | give over; surrender or relinquish to the physical control of another                   | capitulate, cede                                |
+| confound     | kon-found         | to cause confusion                                                                      | flummox                                         |
+| confound     | kon-found         | mistake one thing for another                                                           | conflate                                        |
+| construe     | kuh n-stroo       | interpreted in a particular way                                                         | elucidate, expound                              |
+| contrive     | kuh n-trahyv      | to pull off a plan or scheme, usually through skill or trickery                         | collude, connive, machinate                     |
+| culminate    | kuhl-muh-neyt     | reach the highest or most decisive point                                                |                                                 |
+| delineate    | dih-lin-ee-eyt    | describe in detail                                                                      |                                                 |
+| demur        | dih-mur           | to object or show reluctance                                                            | remonstrate                                     |
+| denigrate    | den-i-greyt       | charge falsely or with malicious intent; attack the good name and reputation of someone | belittle                                        |
+| denote       | dih-noht          | be a sign or indication of; have as a meaning                                           |                                                 |
+| derive       | dih-rahyv         | reason by deduction; establish by deduction                                             | extrapolate                                     |
+| derive       | dih-rahyv         | come from; be connected by a relationship of blood, for example                         |                                                 |
+| disseminate  | dih-sem-uh-neyt   | cause to be widely known                                                                |                                                 |
+| elicit       | ih-lis-it         | to draw forth or bring out                                                              |                                                 |
+| elucidate    | ih-loo-si-deyt    | make clearer and easier to understand                                                   | construe, expound                               |
+| enervate     | en-er-veyt        | to sap energy from                                                                      | desiccate, stultify                             |
+| engender     | en-jen-der        | give rise to                                                                            | catalyze                                        |
+| eradicate    | ih-rad-i-keyt     | to completely destroy                                                                   | expunge                                         |
+| eschew       | es-choo           | avoid and stay away from deliberately; stay clear of                                    |                                                 |
+| espouse      | ih-spouz          | adopt or support an idea or cause                                                       |                                                 |
+| exacerbate   | ig-zas-er-beyt    | make worse                                                                              |                                                 |
+| exalt        | ig-zawlt          | praise or glorify                                                                       |                                                 |
+| exonerate    | ig-zon-uh-reyt    | pronounce not guilty of criminal charges                                                | vindicate                                       |
+| expound      | ik-spound         | add details or explanation; clarify the meaning; state in depth                         | construe, elucidate                             |
+| foment       | foh-ment          | try to stir up public opinion                                                           |                                                 |
+| frustrate    | fruhs-treyt       | hinder or prevent (the efforts, plans, or desires) of                                   | thwart                                          |
+| gainsay      | geyn-sey          | deny or contradict; speak against or oppose                                             | repudiate, refute                               |
+| galvanize    | gal-vuh-nahyz     | to excite or inspire (someone) to action                                                |                                                 |
+| glut         | gluht             | to supply with an excess of                                                             | surfeit                                         |
+| harangue     | huh-rang          | to deliver a long pompous speech or tirade                                              |                                                 |
+| ingratiate   | in-grey-shee-eyt  | gain favor with somebody by deliberate efforts                                          |                                                 |
+| intimate     | in-tuh-mit        | to suggest something subtly                                                             |                                                 |
+| juxtapose    | juhk-stuh-pohz    | place side by side for contrast                                                         |                                                 |
+| lambast      | lam-bast          | criticize severely or angrily                                                           | castigate, chastise, rebuke, reproach, upbraid  |
+| lionize      | lahy-uh-nahyz     | assign great social importance to                                                       |                                                 |
+| maintain     | meyn-teyn         | to assert                                                                               |                                                 |
+| misconstrue  | mis-kuh n-stroo   | interpret in the wrong way                                                              |                                                 |
+| mitigate     | mit-i-geyt        | make less severe or harsh                                                               | assuage                                         |
+| mitigate     | mit-i-geyt        | lessen the severity of an offense                                                       | extenuate                                       |
+| mollify      | mol-uh-fahy       | to make someone angry less angry; placate                                               | appease, placate, propitiate                    |
+| obscure      | uh b-skyoo r      | make unclear                                                                            |                                                 |
+| ostracize    | os-truh-sahyz     | exclude from a community or group                                                       |                                                 |
+| placate      | pley-keyt         | gain the good will of                                                                   | appease, mollify, propitiate                    |
+| posit        | poz-it            | assume as fact                                                                          |                                                 |
+| preclude     | pri-klood         | keep from happening or arising (by taking action in advance); make impossible           | avert                                           |
+| prevaricate  | pri-var-i-keyt    | to speak in an evasive way                                                              |                                                 |
+| qualify      | kwol-uh-fahy      | to make less severe; to limit (a statement)                                             |                                                 |
+| rebuke       | ri-byook          | criticize severely or angrily                                                           | castigate, chastise, lambast, reproach, upbraid |
+| reconcile    | rek-uh n-sahyl    | make (one thing) compatible with (another)                                              | conciliate                                      |
+| refute       | ri-fyoot          | prove to be false or incorrect                                                          | gainsay, repudiate                              |
+| reproach     | ri-prohch         | express criticism towards                                                               | castigate, chastise, lambast, rebuke, upbraid   |
+| repudiate    | ri-pyoo-dee-eyt   | reject as untrue or unfounded                                                           | gainsay, refute                                 |
+| rescind      | ri-sind           | cancel officially                                                                       | abrogate                                        |
+| sanction     | sangk-shuh n      | give authority or permission to                                                         |                                                 |
+| subsume      | suh b-soom        | contain or include                                                                      |                                                 |
+| subsume      | suh b-soom        | consider (an instance of something) as part of a general rule or principle              |                                                 |
+| supplant     | suh-plant         | take the place or move into the position of                                             |                                                 |
+| truncate     | truhng-keyt       | reduce the length of something                                                          |                                                 |
+| undermine    | uhn-der-mahyn     | to weaken (usually paired with an abstract term)                                        |                                                 |
+| underscore   | uhn-der-skohr     | give extra weight to (a communication)                                                  |                                                 |
+| upbraid      | uhp-breyd         | to reproach; to scold                                                                   | castigate, chastise, lambast, rebuke, reproach  |
+| vacillate    | vas-uh-leyt       | be undecided about something; waver between conflicting positions or courses of action  |                                                 |
+| venerate     | ven-uh-reyt       | to respect deeply                                                                       | revere                                          |
+| vilify       | vil-uh-fahy       | spread negative information about                                                       | calumniate                                      |
+| vindicate    | vin-di-keyt       | to clear of accusation, blame, suspicion, or doubt with supporting arguments or proof   | exonerate                                       |

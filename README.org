@@ -1,0 +1,24 @@
+* common-gre
+** What
+Use Emacs and [[https://orgmode.org/worg/org-contrib/org-drill.html][org-drill]] to study for the GRE
+- Org-drill is a spaced repitition extension for org-mode
+- [[https://github.com/chrisbarrett/org-drill-table][Org-drill-table]] generates org-drill cards (flash cards) from org-mode tables
+- Tables are an ideal representation for vocabulary lists
+- Review before you forget
+** How
+1. Within Emacs, install the org-drill and org-drill-table packages
+2. For each heading, generate cards using the following command:
+#+BEGIN_SRC emacs-lisp
+M-x org-drill-table-generate
+#+END_SRC
+3. Card types twosided and multisided produce the intended results
+4. With all the cards created, start a drill session with:
+#+BEGIN_SRC emacs-lisp
+M-x org-drill
+#+END_SRC
+** About
+File was manually assembled using the following resources:
+- [[https://magoosh.zendesk.com/hc/en-us/articles/203446459-Can-I-get-a-written-list-of-the-GRE-flashcard-words-][Word List and Definitions]]
+- [[http://www.dictionary.com/][Pronunciations]]
+- [[https://www.merriam-webster.com/][Synonyms]]
+** Suggestions and corrections welcome
